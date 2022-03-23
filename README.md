@@ -6,11 +6,10 @@ One of my greatest passions is to always learn new things that challenge my mind
 - 🌱  I’m currently learning **React/JS/bootstrap**
 - ✨  I have been learning during the past few months C, Bash, Python, MysSQL,HTML, CSS, Git, JavaScript, Node.js, MongoDB. 
 
+
 ###  Connect with me:
 
-<p align="centro">
- <a href="https://instagram.com/shandy224?utm_medium=copy_link" target="_blank" rel="noopener noreferrer"><img src="https://instagram.com/shandy224?utm_medium=copy_link" width="100" /></a>  
-  <a href="hhttps://www.linkedin.com/in/sandralorenahoyos/" target="_blank" rel="noopener noreferrer"><img src="https://www.linkedin.com/in/sandralorenahoyos/" width="100" /></a>
-</p>
- 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+ <a href="https://instagram.com/shandy224?utm_medium=copy_link" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000 /instagram-nuevo.png" width="50" /></a>  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6902491276454047744/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ plastilina/100/000000/linkedin.png" width="50" /></a>
+
+ <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
