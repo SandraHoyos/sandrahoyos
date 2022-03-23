@@ -11,8 +11,12 @@ One of my greatest passions is to always learn new things that challenge my mind
 
 <h2 align="center">Siéntase libre de conectarse 👥 conmigo en</h2>
 <p align="centro">
-<a href="https://instagram.com/shandy224?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1/icons/instagram.svg" alt="rutvik_dev.desg" altura="30" ancho="40" /></a>
-<a href="https://www.linkedin.com/in/sandralorenahoyos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1/icons/instagram.svg" alt="rutvik_dev.desg" altura="30" ancho="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1/icons/linkedin.svg" alt="rutvikjoshi" height="30" width="40" /></a>
 </p>
 
  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+
+ https://instagram.com/shandy224?utm_medium=copy_link
+ https://www.linkedin.com/in/sandralorenahoyos/
