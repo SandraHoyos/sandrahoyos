@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 I'm Sandra Hoyos!🌺</h1>
+<h1 align="center">Hi👋, I'm Sandra Hoyos!🌺</h1>
 
 <h3> 👩🏻  Acerca de mí </h3>
 
