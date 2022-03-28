@@ -7,8 +7,7 @@ One of my greatest passions is to always learn new things that challenge my mind
 
 - 🌱  I’m currently learning **React/JS/bootstrap**
 - ✨  I have been learning during the past few months C, Bash, Python, MysSQL,HTML, CSS, Git, JavaScript, Node.js, MongoDB. 
-📝 I regularly write articles on  [ https://www.blogger.com/profile/16502758943456121034 ]
-
+📝 I regularly write articles on  https://www.linkedin.com/feed/update/urn:li:activity:6902491276454047744/
 
 <h2 align="center">Connect with me:👥 </h2>
 <p align="left">
