@@ -23,10 +23,6 @@ One of my greatest passions is to always learn new things that challenge my mind
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -48,8 +44,6 @@ align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin
 <a href="https://twitter.com/Sandra74398130" target="blank"><img 
 align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 </p>
-
-
 
 
 
