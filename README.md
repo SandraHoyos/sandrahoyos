@@ -27,15 +27,24 @@ One of my greatest passions is to always learn new things that challenge my mind
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+
+<img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash-" width="40" height="40" />
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="lgit" width="40" height="40" />
 </p>
 
 <h2 align="center">Connect with me:👥 </h2>
 <p align="left">
 <a href="https://instagram.com/shandy224?utm_medium=copy_link" target="blank"><img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/sandralorenahoyos/" target="blank"><img 
 align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rinkedin" height="30" width="40" /></a>
+
 <a href="https://twitter.com/Sandra74398130" target="blank"><img 
 align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 </p>
