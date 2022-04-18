@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Sandra Hoyos!🌺</h1>
 
-<h3> 👩🏻  Acerca de mí </h3>
+<h3> 👩🏻  About me </h3>
 
 I am a developer who is currently learning everything you need to know about web development,
 One of my greatest passions is to always learn new things that challenge my mind and my abilities.
